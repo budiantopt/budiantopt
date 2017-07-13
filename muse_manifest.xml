@@ -1,0 +1,104 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="menstruasi.com" resolutions="1x,2x" timestamp="1499485561251">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="apa-itu-menstruasi.css" crc="493276297" ref="apa-itu-menstruasi"/>
+    <file name="jenis-aktivitas.css" crc="516876402" ref="jenis-aktivitas"/>
+    <file name="iefonts_jenis-aktivitas.css" crc="4243566677" ref="jenis-aktivitas"/>
+    <file name="index.css" crc="252568625" ref="index"/>
+    <file name="jenis-pembalut.css" crc="489891448" ref="jenis-pembalut"/>
+    <file name="iefonts_jenis-pembalut.css" crc="4229654161" ref="jenis-pembalut"/>
+  </folder>
+  <folder name="assets">
+    <folder name="pintu">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1497536318000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="3827239833" mt="1497536318000"/>
+        <file name="Poster.png" crc="3827239833" mt="1497536318000"/>
+        <file name="pintu.svg" crc="3851354560" mt="1497536318000"/>
+      </folder>
+      <file name="pintu_edge.js" crc="4206137648" mt="1497536318000"/>
+      <file name="pintu.html" crc="4195691830" mt="1497536318000"/>
+    </folder>
+    <folder name="laurie-maskot">
+      <folder name="images">
+        <file name="laurie.svg" crc="190730282" mt="1497535746000"/>
+      </folder>
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1497535746000"/>
+      </folder>
+      <file name="transparent.png" crc="140657245" mt="1497535746000"/>
+      <file name="laurie maskot_edge.js" crc="452019918" mt="1497535746000"/>
+      <file name="laurie maskot.html" crc="3767607016" mt="1497535746000"/>
+    </folder>
+    <folder name="ok">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1497630856000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="3771294410" mt="1497630856000"/>
+        <file name="Poster.png" crc="3771294410" mt="1497630856000"/>
+        <file name="laura_hover.svg" crc="4007099979" mt="1497630856000"/>
+      </folder>
+      <file name="ok_edge.js" crc="3999931311" mt="1497630856000"/>
+      <file name="ok.html" crc="111642660" mt="1497630856000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jenis-pembalut:jenis-aktivitas:apa-itu-menstruasi"/>
+    <file name="museutils.js" crc="4148063285" ref="index:jenis-pembalut:jenis-aktivitas:apa-itu-menstruasi"/>
+    <file name="whatinput.js" crc="86476730" ref="index:jenis-pembalut:jenis-aktivitas:apa-itu-menstruasi"/>
+    <file name="museconfig.js" crc="172512987" ref="index:jenis-pembalut:jenis-aktivitas:apa-itu-menstruasi"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:jenis-pembalut:jenis-aktivitas:apa-itu-menstruasi"/>
+    <file name="require.js" crc="4159430777" ref="index:jenis-pembalut:jenis-aktivitas:apa-itu-menstruasi"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="jenis-pembalut"/>
+    <file name="webpro.js" crc="3986320349" ref="jenis-pembalut:jenis-aktivitas"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="jenis-pembalut:jenis-aktivitas"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="jenis-pembalut:jenis-aktivitas"/>
+    <file name="touchswipe.js" crc="221459597" ref="jenis-pembalut:jenis-aktivitas"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-1883x909.svg" crc="3972457380" seo="true" ref="index"/>
+    <file name="pasted svg 1883x909_poster_.png" crc="491689865" ref="index"/>
+    <file name="pasted-svg-7482x500.svg" crc="4034785930" seo="true" ref="index"/>
+    <file name="pasted svg 7482x500_poster_.png" crc="399305233" ref="index"/>
+    <file name="laurier-lab.png" crc="3825649178" seo="true" ref="index:jenis-pembalut:jenis-aktivitas:apa-itu-menstruasi"/>
+    <file name="laurier-lab_2x.png" crc="3868800142" seo="true" ref="index:jenis-pembalut:jenis-aktivitas:apa-itu-menstruasi"/>
+    <file name="pasted-svg-1511x157.svg" crc="4092130604" seo="true" ref="index"/>
+    <file name="pasted svg 1511x157_poster_.png" crc="3810835226" ref="index"/>
+    <file name="pasted-svg-1484.svg" crc="4258062341" seo="true" ref="jenis-pembalut"/>
+    <file name="pasted svg 1484_poster_.png" crc="3928698730" ref="jenis-pembalut"/>
+    <file name="l_active day supermaxi.png" crc="456275689" ref="jenis-pembalut"/>
+    <file name="shopping-cart.png" crc="530822137" seo="true" ref="jenis-pembalut"/>
+    <file name="shopping-cart_2x.png" crc="3992856992" seo="true" ref="jenis-pembalut"/>
+    <file name="l_active day double comfort.png" crc="3803880428" ref="jenis-pembalut"/>
+    <file name="l_relax night w gather.png" crc="3824108086" ref="jenis-pembalut"/>
+    <file name="pasted-svg-1484x237.svg" crc="421678091" seo="true" ref="jenis-pembalut"/>
+    <file name="pasted svg 1484x237_poster_.png" crc="3961003962" ref="jenis-pembalut"/>
+    <file name="bungkus-04129x108.png" crc="4258640678" seo="true" ref="jenis-pembalut"/>
+    <file name="bungkus-05129x112.png" crc="456804962" seo="true" ref="jenis-pembalut"/>
+    <file name="bungkus-06125x125.png" crc="51863067" seo="true" ref="jenis-pembalut"/>
+    <file name="active-day129x125.png" crc="514712266" seo="true" ref="jenis-pembalut"/>
+    <file name="pasted-svg-151819x790.svg" crc="3938069863" seo="true" ref="jenis-aktivitas:apa-itu-menstruasi"/>
+    <file name="pasted svg 151819x790_poster_.png" crc="448388116" ref="jenis-aktivitas"/>
+    <file name="pasted-svg-114016x427.svg" crc="4043085045" seo="true" ref="jenis-aktivitas:apa-itu-menstruasi"/>
+    <file name="pasted svg 114016x427_poster_.png" crc="159474857" ref="jenis-aktivitas"/>
+    <file name="olahraga.png" crc="421986660" seo="true" ref="jenis-aktivitas"/>
+    <file name="olahraga_2x.png" crc="336624197" seo="true" ref="jenis-aktivitas"/>
+    <file name="baca buku.png" crc="350725518" seo="true" ref="jenis-aktivitas"/>
+    <file name="baca buku_2x.png" crc="3909003077" seo="true" ref="jenis-aktivitas"/>
+    <file name="nonton film.png" crc="4046873893" seo="true" ref="jenis-aktivitas"/>
+    <file name="nonton film_2x.png" crc="3901379839" seo="true" ref="jenis-aktivitas"/>
+    <file name="jogging.png" crc="3917764039" seo="true" ref="jenis-aktivitas"/>
+    <file name="jogging_2x.png" crc="196301455" seo="true" ref="jenis-aktivitas"/>
+    <file name="active-day.png" crc="3862804155" seo="true" ref="jenis-aktivitas"/>
+    <file name="bungkus-05.png" crc="3924877592" seo="true" ref="jenis-aktivitas"/>
+    <file name="bungkus-06.png" crc="380950497" seo="true" ref="jenis-aktivitas"/>
+    <file name="bungkus-04.png" crc="4221866167" seo="true" ref="jenis-aktivitas"/>
+  </folder>
+  <file name="index.html" crc="249990813" seo="true" mt="1499485524025" redirect="true"/>
+  <file name="jenis-pembalut.html" crc="347235186" seo="true" mt="1499485498009" redirect="true"/>
+  <file name="jenis-aktivitas.html" crc="18226867" seo="true" mt="1499485503663" redirect="true"/>
+  <file name="apa-itu-menstruasi.html" crc="262591423" seo="true" mt="1499485510909" redirect="true"/>
+</manifest>
